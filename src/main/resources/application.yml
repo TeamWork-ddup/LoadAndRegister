@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://120.77.210.128:3306/liyo?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 在这个地方填写密码！！！
